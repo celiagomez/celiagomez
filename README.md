@@ -17,4 +17,4 @@ Find in my profile projects carried out during my degree and also personal ones.
 ## Contact
 
 Email: celiagomezgarciac@gmail.com
-Linkedin: https://www.linkedin.com/in/celia-gomez-garciac/
+LinkedIn: https://www.linkedin.com/in/celia-gomez-garciac/
