@@ -6,9 +6,9 @@ Find in my profile projects carried out during my degree and also personal ones.
 
 ## Skills
 
-☼ Python Coding for Machine Learning
+☼ Scripting in Python and Bash
 
-☼ Object-oriented programming in C++
+☼ Python Coding for Machine Learning
 
 ☼ Some knowledge of Linux commands
 
